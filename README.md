@@ -1,6 +1,4 @@
-# GEO to RIS Converter
-
-## HOW IS THE DATA MAPPED
+# GEO to RIS Converter!
 
 - **Accession IDs** → Listed as “authors”
 - **Organism** → Bracketed in the title (“[Homo sapiens]”)
